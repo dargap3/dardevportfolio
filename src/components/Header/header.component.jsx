@@ -24,7 +24,7 @@ const Header = () => {
         <ul className="nav__list">
           <li className="nav__item"><a onClick={handleClose} href="#about" className="nav__link">About me</a></li>
           <li className="nav__item"><a onClick={handleClose} href="#work" className="nav__link">Projects</a></li>
-          <li className="nav__item"><a onClick={handleClose} href="#www" className="nav__link">Contact</a></li>
+          <li className="nav__item"><a onClick={handleClose} href="#footer" className="nav__link">Contact</a></li>
         </ul>
       </nav>
     </header>
