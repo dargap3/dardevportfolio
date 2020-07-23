@@ -11,7 +11,7 @@ const About = () => (
            
     <div className="about-me__body">
       <p>I'm a front-end React Developer based in Medellín, with 1 year of experience working as a freelance and building web apps.</p>
-      <p>Passionate to learn cool stuff in order to give them a new approach make it them uniques.</p>
+      <p>Passionate to learn cool stuff in order to give them a new approach and make it them uniques.</p>
       <p>I also believe I'm a problem solver!</p>
     </div>
            
