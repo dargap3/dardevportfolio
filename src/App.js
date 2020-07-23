@@ -10,9 +10,9 @@ import ReactGA from 'react-ga';
 
 import './App.css';
 
+ReactGA.initialize('UA-173398640-1');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
-const trackingId = "UA-173398640-1"; // Replace with your Google Analytics tracking ID
-ReactGA.initialize(trackingId);
 
 function App() {
   return (
