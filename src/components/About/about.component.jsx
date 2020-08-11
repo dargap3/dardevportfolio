@@ -10,8 +10,9 @@ const About = () => (
     <p className="section__subtitle section__subtitle--about">A civil engineer who codes.</p>
            
     <div className="about-me__body">
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ipsum fugiat voluptas saepe, expedita </p>
-      <p>possimus totam aut officia quasi id sit magnam consequuntur ducimus porro culpa minus, officiis asperiores blanditiis.</p>
+      <p>I'm a front-end React Developer based in Medellín, with 1 year of experience working as a freelance and building web apps.</p>
+      <p>Passionate to learn cool stuff in order to give them a new approach and make it them uniques.</p>
+      <p>I also believe I'm a problem solver!</p>
     </div>
            
     <img src={aboutImg} alt="Diego Ramón smiling" className={'about-me__img'} />
