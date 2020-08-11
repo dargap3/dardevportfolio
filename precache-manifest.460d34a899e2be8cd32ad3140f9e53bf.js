@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32fc8df56b150812f00f1514acef1a5b",
+    "revision": "57c328720f125fb7ae545632332431b3",
     "url": "/dargap3/dardevportfolio/index.html"
   },
   {
-    "revision": "fb2dee4518651ee8d45f",
-    "url": "/dargap3/dardevportfolio/static/css/main.2e94d0d7.chunk.css"
+    "revision": "537246de1bbc72fba616",
+    "url": "/dargap3/dardevportfolio/static/css/main.993ca39a.chunk.css"
   },
   {
     "revision": "f789fd8127a9964bcaf4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dargap3/dardevportfolio/static/js/2.06f0565c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fb2dee4518651ee8d45f",
+    "revision": "537246de1bbc72fba616",
     "url": "/dargap3/dardevportfolio/static/js/main.9d61a4bf.chunk.js"
   },
   {
