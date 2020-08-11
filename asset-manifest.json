@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/dargap3/dardevportfolio/static/css/main.993ca39a.chunk.css",
-    "main.js": "/dargap3/dardevportfolio/static/js/main.9d61a4bf.chunk.js",
-    "main.js.map": "/dargap3/dardevportfolio/static/js/main.9d61a4bf.chunk.js.map",
-    "runtime-main.js": "/dargap3/dardevportfolio/static/js/runtime-main.a43e705a.js",
-    "runtime-main.js.map": "/dargap3/dardevportfolio/static/js/runtime-main.a43e705a.js.map",
-    "static/js/2.06f0565c.chunk.js": "/dargap3/dardevportfolio/static/js/2.06f0565c.chunk.js",
-    "static/js/2.06f0565c.chunk.js.map": "/dargap3/dardevportfolio/static/js/2.06f0565c.chunk.js.map",
-    "index.html": "/dargap3/dardevportfolio/index.html",
-    "precache-manifest.460d34a899e2be8cd32ad3140f9e53bf.js": "/dargap3/dardevportfolio/precache-manifest.460d34a899e2be8cd32ad3140f9e53bf.js",
-    "service-worker.js": "/dargap3/dardevportfolio/service-worker.js",
-    "static/css/main.993ca39a.chunk.css.map": "/dargap3/dardevportfolio/static/css/main.993ca39a.chunk.css.map",
-    "static/js/2.06f0565c.chunk.js.LICENSE.txt": "/dargap3/dardevportfolio/static/js/2.06f0565c.chunk.js.LICENSE.txt",
-    "static/media/Dar.Dev-logo.png": "/dargap3/dardevportfolio/static/media/Dar.Dev-logo.42fc19f3.png",
-    "static/media/WhatsApp Image 2020-06-23 at 11.16.51 PM.jpeg": "/dargap3/dardevportfolio/static/media/WhatsApp Image 2020-06-23 at 11.16.51 PM.d2850696.jpeg",
-    "static/media/codepen.svg": "/dargap3/dardevportfolio/static/media/codepen.cb7cb431.svg",
-    "static/media/github.svg": "/dargap3/dardevportfolio/static/media/github.16b4073c.svg",
-    "static/media/linkedin.svg": "/dargap3/dardevportfolio/static/media/linkedin.49afdd26.svg",
-    "static/media/twitter.svg": "/dargap3/dardevportfolio/static/media/twitter.885e64c7.svg"
+    "main.css": "/dardevportfolio/static/css/main.993ca39a.chunk.css",
+    "main.js": "/dardevportfolio/static/js/main.e3bceddc.chunk.js",
+    "main.js.map": "/dardevportfolio/static/js/main.e3bceddc.chunk.js.map",
+    "runtime-main.js": "/dardevportfolio/static/js/runtime-main.9744e0fd.js",
+    "runtime-main.js.map": "/dardevportfolio/static/js/runtime-main.9744e0fd.js.map",
+    "static/js/2.06f0565c.chunk.js": "/dardevportfolio/static/js/2.06f0565c.chunk.js",
+    "static/js/2.06f0565c.chunk.js.map": "/dardevportfolio/static/js/2.06f0565c.chunk.js.map",
+    "index.html": "/dardevportfolio/index.html",
+    "precache-manifest.076459453da2579d764cf89e750bdff3.js": "/dardevportfolio/precache-manifest.076459453da2579d764cf89e750bdff3.js",
+    "service-worker.js": "/dardevportfolio/service-worker.js",
+    "static/css/main.993ca39a.chunk.css.map": "/dardevportfolio/static/css/main.993ca39a.chunk.css.map",
+    "static/js/2.06f0565c.chunk.js.LICENSE.txt": "/dardevportfolio/static/js/2.06f0565c.chunk.js.LICENSE.txt",
+    "static/media/Dar.Dev-logo.png": "/dardevportfolio/static/media/Dar.Dev-logo.42fc19f3.png",
+    "static/media/WhatsApp Image 2020-06-23 at 11.16.51 PM.jpeg": "/dardevportfolio/static/media/WhatsApp Image 2020-06-23 at 11.16.51 PM.d2850696.jpeg",
+    "static/media/codepen.svg": "/dardevportfolio/static/media/codepen.cb7cb431.svg",
+    "static/media/github.svg": "/dardevportfolio/static/media/github.16b4073c.svg",
+    "static/media/linkedin.svg": "/dardevportfolio/static/media/linkedin.49afdd26.svg",
+    "static/media/twitter.svg": "/dardevportfolio/static/media/twitter.885e64c7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a43e705a.js",
+    "static/js/runtime-main.9744e0fd.js",
     "static/js/2.06f0565c.chunk.js",
     "static/css/main.993ca39a.chunk.css",
-    "static/js/main.9d61a4bf.chunk.js"
+    "static/js/main.e3bceddc.chunk.js"
   ]
 }
