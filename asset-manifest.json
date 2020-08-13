@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dardevportfolio/static/css/main.993ca39a.chunk.css",
-    "main.js": "/dardevportfolio/static/js/main.e3bceddc.chunk.js",
-    "main.js.map": "/dardevportfolio/static/js/main.e3bceddc.chunk.js.map",
+    "main.js": "/dardevportfolio/static/js/main.8c4e2012.chunk.js",
+    "main.js.map": "/dardevportfolio/static/js/main.8c4e2012.chunk.js.map",
     "runtime-main.js": "/dardevportfolio/static/js/runtime-main.9744e0fd.js",
     "runtime-main.js.map": "/dardevportfolio/static/js/runtime-main.9744e0fd.js.map",
     "static/js/2.06f0565c.chunk.js": "/dardevportfolio/static/js/2.06f0565c.chunk.js",
     "static/js/2.06f0565c.chunk.js.map": "/dardevportfolio/static/js/2.06f0565c.chunk.js.map",
     "index.html": "/dardevportfolio/index.html",
-    "precache-manifest.076459453da2579d764cf89e750bdff3.js": "/dardevportfolio/precache-manifest.076459453da2579d764cf89e750bdff3.js",
+    "precache-manifest.e6905941bf529282fda68da1fc4df103.js": "/dardevportfolio/precache-manifest.e6905941bf529282fda68da1fc4df103.js",
     "service-worker.js": "/dardevportfolio/service-worker.js",
     "static/css/main.993ca39a.chunk.css.map": "/dardevportfolio/static/css/main.993ca39a.chunk.css.map",
     "static/js/2.06f0565c.chunk.js.LICENSE.txt": "/dardevportfolio/static/js/2.06f0565c.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.9744e0fd.js",
     "static/js/2.06f0565c.chunk.js",
     "static/css/main.993ca39a.chunk.css",
-    "static/js/main.e3bceddc.chunk.js"
+    "static/js/main.8c4e2012.chunk.js"
   ]
 }
