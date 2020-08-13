@@ -32,7 +32,15 @@ const Projects = () => (
           technologies={['React js', 'Firebase', 'Redux', 'React Router']}
           codeUrl={'https://github.com/dargap3/royal-clothing'}
           url={'https://agitated-lamport-e41afc.netlify.app/'}
-        />             
+        />
+        <PortfolioItem
+          type={'web app'}
+          title={'quote generator'}
+          description={'A famous quotes generator, you can twit any quote.'}
+          technologies={['JavaScript']}
+          codeUrl={'https://github.com/dargap3/quote-generator'}
+          url={'https://dargap3.github.io/quote-generator/'}
+        />           
     </div>
   </section>
 );
