@@ -35,8 +35,24 @@ const Projects = () => (
         />
         <PortfolioItem
           type={'web app'}
+          title={'picture in picture'}
+          description={'Pop a video out into a small floating window that stays above all others, so that you can keep watching while doing other things.'}
+          technologies={['JavaScript', 'Screen Capture API']}
+          codeUrl={'https://github.com/dargap3/picture-in-picture'}
+          url={'https://dargap3.github.io/picture-in-picture/'}
+        />
+        <PortfolioItem
+          type={'web app'}
+          title={'infinite scroll'}
+          description={"In this project you could find a bunch of images from unplash API where you can infinite scrolling through the website"}
+          technologies={['JavaScript', 'Unplash API']}
+          codeUrl={'https://github.com/dargap3/infinite-scroll'}
+          url={'https://dargap3.github.io/infinite-scroll/'}
+        />
+        <PortfolioItem
+          type={'web app'}
           title={'quote generator'}
-          description={'A famous quotes generator, you can twit any quote.'}
+          description={"A famous' quotes generator, you can twit any quote."}
           technologies={['JavaScript']}
           codeUrl={'https://github.com/dargap3/quote-generator'}
           url={'https://dargap3.github.io/quote-generator/'}
